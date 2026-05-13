@@ -1,1 +1,1 @@
-mpesa stk push integration.
+mpesa stk-push integration.
